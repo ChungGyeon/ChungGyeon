@@ -2,7 +2,7 @@
 <table>
   <tr><td colspan="2"><a href="/README.md#%EF%B8%8F-templates">← Back to templates index</a></td></tr>
   <tr><th colspan="2"><h3><img src=https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Always%20learning&fontSize=90></h3></th></tr>
-  <tr><td colspan="2" align="center"><p>A template mimicking a SSH session.</p>
+  <tr><td colspan="2" align="center"><p>i dont have anything, but im decorating it</p>
 </td></tr>
   <tr>
     <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
@@ -23,18 +23,4 @@
 </table>
 <!--/header-->
 
-## ℹ️ Specification
-
-<!--examples-->
-```yaml
-name: JAEHYUK_LIM
-uses: lowlighter/metrics@latest
-with:
-  template: terminal
-  filename: metrics.terminal.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, metadata
-
-```
-<!--/examples-->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungGyeon)](https://github.com/ChungGyeon/github-readme-stats)
