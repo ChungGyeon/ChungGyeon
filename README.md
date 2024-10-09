@@ -20,51 +20,7 @@
       <img width="900" height="1" alt="">
     </td>
   </tr>
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hacker Typer Style</title>
-    <style>
-        body {
-            background-color: black;
-            color: green;
-            font-family: 'Courier New', Courier, monospace;
-            white-space: pre-wrap;
-        }
 
-        #output {
-            padding: 20px;
-            font-size: 1.2rem;
-        }
-    </style>
-</head>
-<body>
-
-<div id="output"></div>
-
-<script>
-    // 해커 스타일 타이핑 데이터 (예시로 파이썬 코드)
-    const code = `import random
-
-def hacker_simulation():
-    print("Simulating hacking...")
-    data = [random.randint(0, 100) for _ in range(10)]
-    print(f"Hacked data: {data}")
-
-hacker_simulation()`;
-
-    const output = document.getElementById('output');
-    let index = 0;
-
-    // 키보드 입력 시 텍스트가 추가되도록 설정
-    document.addEventListener('keydown', () => {
-        if (index < code.length) {
-            output.innerText += code[index];
-            index++;
-        }
-    });
-</script>
-</table>
 <!--/header-->
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungGyeon)](https://github.com/ChungGyeon/github-readme-stats)
