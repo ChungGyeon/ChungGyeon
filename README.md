@@ -12,7 +12,18 @@
     <td><code>👤 LJH</code> <code>👥 Chungbuk National University</code></td>
   </tr>
   <tr>
-    <td><code>*️⃣ C</code> <code>*️⃣ C++</code> <code>*️⃣ JPEG</code> <code>#️⃣ JSON</code></td>
+    <td><code>
+    <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=C++&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Visual&20Studio&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+
+
+
+      
+    </code></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
