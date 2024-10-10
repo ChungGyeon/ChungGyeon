@@ -14,11 +14,6 @@
   <tr>
     <td><code>
     <img src="https://img.shields.io/badge/C-FF0000?style=flat-square&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-FF0000?style=flat-square&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/Python-FF0000?style=flat-square&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/MySQL-FF0000?style=flat-square&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-
-
-
-      
-    </code></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
