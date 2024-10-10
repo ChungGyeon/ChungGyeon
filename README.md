@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Python-FF0000?style=flat-square&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-FF0000?style=flat-square&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio-FF0000?style=flat-square&logo=Visual&20Studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio Code?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual Studio Code?style=flat-square&logo=Visual Studio Code&logoColor=white">
 
 
 
