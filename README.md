@@ -1,7 +1,7 @@
 <table>
 <h3><img src=https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Always%20learning&fontSize=90></h3>
-
-
+</br></br>
+<div align="center"><img src=https://github.com/ChungGyeon/ChungGyeon/blob/main/terminal.gif></div></br>
 
 
 
@@ -25,6 +25,5 @@
 
 
 
-  <div align="center"><img src=https://github.com/ChungGyeon/ChungGyeon/blob/main/terminal.gif></div>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungGyeon)](https://github.com/ChungGyeon/github-readme-stats)
