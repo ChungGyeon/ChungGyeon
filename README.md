@@ -13,9 +13,10 @@
 
 <div align="center">🛠️
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
-🛠️</div>
-<!--/header-->
+🛠️</div></br></br>
 
 
+<div align="center">😢<img src="https://img.shields.io/badge/java-F7DF1E.svg?style=for-the-badge&logo=java&logoColor=20232a" /> 
+  🛠️</div>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungGyeon)](https://github.com/ChungGyeon/github-readme-stats)
